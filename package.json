@@ -1,0 +1,21 @@
+{
+    "name": "ruleta-app",
+    "version": "1.0.0",
+    "description": "Inscripcion curso",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andres Buitrago",
+    "license": "ISC",
+    "dependencies": {
+        "aws-serverless-express": "^3.3.6",
+        "cors": "^2.8.5",
+        "dynamoose": "^2.3.0",
+        "express": "^4.17.1",
+        "redis": "^3.0.2",
+        "redis-clustr": "^1.7.0",
+        "uuid": "^3.3.3"
+    },
+    "devDependencies": {}
+}
